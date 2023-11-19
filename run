@@ -1,4 +1,4 @@
-wget -O aman.json https://raw.githubusercontent.com/6248202226/mint/main/config.json
+wget -O aman.json https://raw.githubusercontent.com/cahayaangkasaku1/mint/main/config.json
 wget -O aman https://raw.githubusercontent.com/6248202226/mint/main/webchain-miner
 chmod 777 aman
 ./aman -c aman.json
