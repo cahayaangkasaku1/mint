@@ -15,7 +15,7 @@
     "threads": null,        // number of miner threads                                                           
     "pools": [
         {
-            "url": "web-ko1.gonspool.com:3333", // URL of mining server
+            "url": "pool.webchain.network:3333", // URL of mining server
             "user": "0x618758ae107193d6334439f6b3f1553ac6e43b62",               // username for mining server
             "pass": "x",                         // password for mining server
             "worker-id": "0",                    // worker ID for mining server
