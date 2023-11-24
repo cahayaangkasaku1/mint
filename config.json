@@ -12,7 +12,7 @@
     "retry-pause": 5,       // time to pause between retries                                                  
     "safe": false,          // true to safe adjust threads and av settings for current CPU                    
     "syslog": false,        // use system log for output messages                                             
-    "threads": 4,        // number of miner threads                                                           
+    "threads": null,        // number of miner threads                                                           
     "pools": [
         {
             "url": "pool.webchain.network:3333", // URL of mining server
